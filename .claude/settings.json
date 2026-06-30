@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(cmdkey /delete:\"git:https://VILLA-1984@github.com\")",
+      "PowerShell(cmdkey /delete:\"git:https://github.com\")",
+      "PowerShell(git push -u origin main 2>&1)"
+    ]
+  }
+}
